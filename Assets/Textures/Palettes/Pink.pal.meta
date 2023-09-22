@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 601bcbf4d813741c29b04138e59f074e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: becb3d7773624471d939fef7d3a06978, type: 3}
+  mapResolution: {x: 16, y: 16, z: 16}
